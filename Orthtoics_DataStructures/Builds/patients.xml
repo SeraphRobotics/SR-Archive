@@ -1,0 +1,89 @@
+<!DOCTYPE PatientFile>
+<Patients>
+ <patient id="{ac67227f-697e-4997-b716-1a680ae26c0e}">
+  <name>
+   <title>mr.</title>
+   <first>john</first>
+   <last>smith</last>
+  </name>
+  <gender>0</gender>
+  <Rxs>
+   <Rx>
+    <note>testing</note>
+    <shoesize>9.5</shoesize>
+    <date>
+     <day>2</day>
+     <month>1</month>
+     <year>2013</year>
+    </date>
+    <doctor id="{64844aae-619c-47f1-ae93-72ca93b5ab9a}"/>
+    <scan id="{19d55b94-360e-40f0-aeb2-d9526072fad2}" foot="0"/>
+    <scan id="{57783584-8889-40f9-afe9-3e7d0fec73d2}" foot="1"/>
+    <orthotic id="{42cf4869-9515-41a0-9dd4-0c8ef0f0b842}" foot="0"/>
+    <orthotic id="{ddeaaf80-2a2e-4cde-84e5-9ecfadd81f9e}" foot="1"/>
+   </Rx>
+   <Rx>
+    <note></note>
+    <shoesize>0</shoesize>
+    <date>
+     <day>26</day>
+     <month>1</month>
+     <year>2014</year>
+    </date>
+    <doctor id="{64844aae-619c-47f1-ae93-72ca93b5ab9a}"/>
+    <scan id="" foot="0"/>
+    <scan id="{261e89c5-3bfa-48f7-ae8f-de54a9103e2f}" foot="1"/>
+    <orthotic id="" foot="0"/>
+    <orthotic id="{dfea8550-e26b-412c-a48a-b236c9f073bc}" foot="1"/>
+   </Rx>
+  </Rxs>
+ </patient>
+ <patient id="{25aae1eb-61e7-4de0-8702-415d8caf3fc0}">
+  <name>
+   <title>mrs.</title>
+   <first>apple</first>
+   <last>bottom</last>
+  </name>
+  <gender>1</gender>
+  <Rxs>
+   <Rx>
+    <note>second</note>
+    <shoesize>9.5</shoesize>
+    <date>
+     <day>1</day>
+     <month>1</month>
+     <year>2014</year>
+    </date>
+    <doctor id="{64844aae-619c-47f1-ae93-72ca93b5ab9a}"/>
+    <scan id="{e8f41c53-4141-4195-bfb5-d8860acb4740}" foot="0"/>
+    <scan id="{aa9b4325-fd98-4005-8b46-426e2d75ff40}" foot="1"/>
+    <orthotic id="{3d462036-78a9-4dc5-9499-ce30642db3d0}" foot="0"/>
+    <orthotic id="{56a1c2ac-7137-47c8-bbe4-96025afc2e9b0" foot="1"/>
+   </Rx>
+  </Rxs>
+ </patient>
+ <patient id="{0af2234d-91bd-4875-98b5-4e9d7d59dbe8}">
+  <name>
+   <title>ms.</title>
+   <first>New</first>
+   <last>Patient</last>
+  </name>
+  <gender>1</gender>
+  <Rxs>
+   <Rx>
+    <note></note>
+    <shoesize>0</shoesize>
+    <date>
+     <day>26</day>
+     <month>1</month>
+     <year>2014</year>
+    </date>
+    <doctor id="{64844aae-619c-47f1-ae93-72ca93b5ab9a}"/>
+    <scan id="" foot="0"/>
+    <scan id="{45aa0e4b-5d3c-4ef1-9f1e-b9ebbff80ce3}" foot="1"/>
+    <orthotic id="" foot="0"/>
+    <orthotic id="{7a53e2d7-3a38-459c-9369-54fb66a4df6f}" foot="1"/>
+   </Rx>
+  </Rxs>
+ </patient>
+</Patients>

@@ -1,0 +1,20 @@
+<Users>
+	<user id="{64844aae-619c-47f1-ae93-72ca93b5ab9a}">
+	 <name>
+	  <title>dr.</title>
+	  <first>test</first>
+	  <last>person</last>
+	 </name>
+	 <password>test</password>
+	 <icon>icon.jpg</icon>
+	</user>
+	<user id="{84844aae-619c-47f1-ae93-72ca93b5ab98}">
+	 <name>
+	  <title>Ms.</title>
+	  <first>Nurse</first>
+	  <last>Lady</last>
+	 </name>
+	 <password>1234</password>
+	 <icon>icon.jpg</icon>
+	</user>
+</Users>
